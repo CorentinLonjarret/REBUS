@@ -2,7 +2,7 @@
 This is the original Tensorflow implementation of REBUS for the [paper](https://arxiv.org/pdf/2008.05587.pdf) and currently under review for the DAMI Journal.
 Please cite our paper if you use the code or datasets.
 
-Note that supplementary material and code use in the [paper](https://arxiv.org/pdf/2008.05587.pdf) can be found [here](https://bit.ly/39XFKe0)
+Note that supplementary material and code for all experiments use in the [paper](https://arxiv.org/pdf/2008.05587.pdf) can be found [here](https://bit.ly/39XFKe0)
 
 
 ## Requirements
