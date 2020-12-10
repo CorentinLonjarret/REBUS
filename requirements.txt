@@ -1,0 +1,9 @@
+###### Requirements without Version Specifiers ######
+pandas
+numpy
+scipy
+tensorflow == 1.14.0
+multiprocess
+tqdm
+truth-table-generator
+###### Requirements with Version Specifiers ######
