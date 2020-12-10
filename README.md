@@ -2,7 +2,7 @@
 This is the original Tensorflow implementation of REBUS for the [paper](https://arxiv.org/pdf/2008.05587.pdf) and currently under review for the DAMI Journal.
 Please cite our paper if you use the code or datasets.
 
-Note that supplementary material and code for all experiments use in the [paper](https://arxiv.org/pdf/2008.05587.pdf) can be found [here](https://bit.ly/39XFKe0)
+Note that supplementary material and code use in the [paper](https://arxiv.org/pdf/2008.05587.pdf) to make the experiments can be found [here](https://bit.ly/39XFKe0)
 
 
 ## Requirements
@@ -18,12 +18,12 @@ A requirement file is available.
 
 ## Configurations
 ### Data
-- Some Datasets can be find in the folder 01-Data
-- All the datasets use in the papier can be downloaded [here](https://bit.ly/2Iyq6uf). (The most datasets come from [here](https://cseweb.ucsd.edu/~jmcauley/datasets.html) a repository created by [Julien McAuley](https://cseweb.ucsd.edu/~jmcauley/))
-- Each file contains have the current format:
+- Some Datasets can be found in the folder 01-Data
+- All the datasets use in the paper can be downloaded [here](https://bit.ly/2Iyq6uf). (The most datasets come from [here](https://cseweb.ucsd.edu/~jmcauley/datasets.html) a repository created by [Julien McAuley](https://cseweb.ucsd.edu/~jmcauley/))
+- Each file have the current format:
   > user, item, rating, time
 - As the problem is Sequential Recommendation, the rating doesn't matter.
-- The forlder 96-FSUB contains all frequent sequence that need REBUS. The file fsub.py in the forlder 04-Python create new one.
+- The forlder 96-FSUB contains all frequent sequences that need REBUS. The file fsub.py in the forlder 04-Python create new one.
 
 ### Usage
 ```
