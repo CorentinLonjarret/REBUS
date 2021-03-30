@@ -1,6 +1,11 @@
 # REBUS : Recommendation Embedding Based on freqUent Sequences
-This is the original Tensorflow implementation of REBUS for the [paper](https://arxiv.org/pdf/2008.05587.pdf) and currently under review for the DAMI Journal.
-Please cite our paper if you use the code or datasets.
+This is the original Tensorflow implementation of REBUS for the [paper](https://arxiv.org/pdf/2008.05587.pdf) and published in [DAMI Journal](https://link.springer.com/article/10.1007/s10618-021-00744-w) (12 March 2021).
+
+Please cite our paper if you use the code or datasets:
+
+> Lonjarret, C., Auburtin, R., Robardet, C. et al. 
+> Sequential recommendation with metric models based on frequent sequences.
+> Data Min Knowl Disc (2021). https://doi.org/10.1007/s10618-021-00744-w
 
 Note that supplementary material and code use in the [paper](https://arxiv.org/pdf/2008.05587.pdf) to make the experiments can be found [here](https://bit.ly/39XFKe0)
 
